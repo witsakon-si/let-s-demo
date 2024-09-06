@@ -54,7 +54,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-url = 'https://gist.githubusercontent.com/witsakon-si/e9aaa228e4f26b8d311a04f2e4c97bd1/raw/0a392303646c9f308039440f9da39b0027583be4/let-s-demo-data.json'
+url = 'https://raw.githubusercontent.com/witsakon-si/let-s-demo/master/data.json'
 resp = requests.get(url)
 data = json.loads(resp.text)
 print(data)
