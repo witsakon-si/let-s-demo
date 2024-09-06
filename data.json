@@ -1,19 +1,13 @@
 [
     {
-        "group": "Report",
+        "group": "Demo Project",
         "demo_list": 
         [
             {
-                "title": "Basic Report",
-                "url": "https://test.site",
-                "image_url": "https://live.staticflickr.com/65535/53973572692_c6178b2ef8_o_d.png",
-                "tags": ["JasperReport", "SpringBoot", "Angular"]
-            },
-            {
-                "title": "Chart Report",
-                "url": "https://test.site",
-                "image_url": "https://live.staticflickr.com/65535/53973572692_c6178b2ef8_o_d.png",
-                "tags": ["JasperReport", "SpringBoot", "Angular"]
+                "title": "Demo port & price alert",
+                "url": "https://demo-port.kapolo.site/",
+                "image_url": "https://live.staticflickr.com/65535/53974753653_607e7e32a9_o_d.png",
+                "tags": ["Spring Boot", "Angular (PrimeNg)", "AWS", "nginx"]
             }
         ]
     },
