@@ -4,10 +4,10 @@
         "demo_list": 
         [
             {
-                "title": "Demo port & price alert",
+                "title": "Demo Port & Price alert",
                 "url": "https://demo-port.kapolo.site/",
                 "image_url": "https://live.staticflickr.com/65535/53974753653_607e7e32a9_o_d.png",
-                "tags": ["Spring Boot", "Angular (PrimeNg)", "AWS", "nginx"]
+                "tags": ["Spring Boot", "Angular (PrimeNg)", "SockJS", "Line Notify", "AWS", "Nginx"]
             }
         ]
     },
