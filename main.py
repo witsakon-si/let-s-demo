@@ -6,11 +6,13 @@ import json
 
 def print_component(data):
     st.image(data['image_url'])
+
+    tags = "";
+    for tag in data['tags']:
+        tags = tags + f"<span class='badge'>{tag}</span>"
     st.markdown(f"""
         <a class='image-url' href={data['url']}>{data['title']}</a>
-        <span class='badge'>JasperReport</span>
-        <span class='badge'>SpringBoot</span>
-        <span class='badge'>Angular</span>
+        {tags}
     """, unsafe_allow_html=True)
 
 st.set_page_config(layout="wide")
