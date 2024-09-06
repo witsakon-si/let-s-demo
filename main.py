@@ -15,7 +15,7 @@ def print_component(data):
         {tags}
     """, unsafe_allow_html=True)
 
-st.set_page_config(layout="wide")
+st.set_page_config(page_title="Let's Demo", layout="wide")
 
 st.title("Let's Demo")
 st.text('Keep It Simple and Smart')
@@ -55,6 +55,14 @@ st.markdown("""
 }
 </style>
 """, unsafe_allow_html=True)
+
+hide_github_icon = """
+.stActionButton {
+    visibility: hidden;
+}
+"""
+st.markdown(hide_github_icon, unsafe_allow_html=True)
+
 url = 'https://raw.githubusercontent.com/witsakon-si/let-s-demo/main/data.json'
 resp = requests.get(url)
 data = json.loads(resp.text)
