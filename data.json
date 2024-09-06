@@ -32,36 +32,6 @@
                 "url": "https://test.site",
                 "image_url": "https://live.staticflickr.com/65535/53973572692_c6178b2ef8_o_d.png",
                 "tags": ["SpringBoot", "Angular"]
-            },
-            {
-                "title": "Google/Facebook Authenticator",
-                "url": "https://test.site",
-                "image_url": "https://live.staticflickr.com/65535/53973572692_c6178b2ef8_o_d.png",
-                "tags": ["SpringBoot", "Angular"]
-            },
-            {
-                "title": "Two-factor authentication (2FA)",
-                "url": "https://test.site",
-                "image_url": "https://live.staticflickr.com/65535/53973572692_c6178b2ef8_o_d.png",
-                "tags": ["SpringBoot", "Angular"]
-            },
-            {
-                "title": "Two-factor authentication (2FA)",
-                "url": "https://test.site",
-                "image_url": "https://live.staticflickr.com/65535/53973572692_c6178b2ef8_o_d.png",
-                "tags": ["SpringBoot", "Angular"]
-            },
-            {
-                "title": "Two-factor authentication (2FA)",
-                "url": "https://test.site",
-                "image_url": "https://live.staticflickr.com/65535/53973572692_c6178b2ef8_o_d.png",
-                "tags": ["SpringBoot", "Angular"]
-            },
-            {
-                "title": "Two-factor authentication (2FA)",
-                "url": "https://test.site",
-                "image_url": "https://live.staticflickr.com/65535/53973572692_c6178b2ef8_o_d.png",
-                "tags": ["SpringBoot", "Angular"]
             }
         ]
     }
