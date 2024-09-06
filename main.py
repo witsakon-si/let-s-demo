@@ -57,9 +57,11 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 hide_github_icon = """
+<style>
 .stActionButton {
     visibility: hidden;
 }
+</style>
 """
 st.markdown(hide_github_icon, unsafe_allow_html=True)
 
