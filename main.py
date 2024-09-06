@@ -18,7 +18,7 @@ def print_component(data):
 st.set_page_config(layout="wide")
 
 st.title("Let's Demo")
-st.text('Keep It Simple')
+st.text('Keep It Simple and Smart')
 st.text('')
 
 
