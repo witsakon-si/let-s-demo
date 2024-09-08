@@ -17,9 +17,9 @@
         [
             {
                 "title": "Basic Login",
-                "url": "https://test.site",
-                "image_url": "https://live.staticflickr.com/65535/53973572692_c6178b2ef8_o_d.png",
-                "tags": ["SpringBoot", "Angular"]
+                "url": "https://demo-angualr-login.kapolo.site/",
+                "image_url": "https://live.staticflickr.com/65535/53979493983_d072d926a7_o_d.png",
+                "tags": ["Spring Boot", "Angular", "Spring Security", "JWT"]
             },
             {
                 "title": "Google/Facebook Authenticator",
