@@ -88,7 +88,6 @@ for idx, group in enumerate(data):
             if i+3 < len(demos):
                 print_component(demos[i+3])
 
-
 st.text('')
 st.text('')
 aboutMeCol1, aboutMeCol2 = st.columns(2)
