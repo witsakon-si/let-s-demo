@@ -4,7 +4,7 @@
         "demo_list": 
         [
             {
-                "title": "Demo Port & Price alert",
+                "title": "Port & Price Alert",
                 "url": "https://demo-port.kapolo.site/",
                 "image_url": "https://live.staticflickr.com/65535/53974753653_607e7e32a9_o_d.png",
                 "tags": ["Spring Boot", "Angular (PrimeNg)", "SockJS", "Line Notify", "AWS", "Nginx"]
@@ -19,7 +19,7 @@
                 "title": "Basic Login",
                 "url": "https://demo-angualr-login.kapolo.site/",
                 "image_url": "https://live.staticflickr.com/65535/53979493983_d072d926a7_o_d.png",
-                "tags": ["Spring Boot", "Angular", "Spring Security", "JWT"]
+                "tags": ["Spring Boot", "Angular", "Spring Security", "JWT", "Bootstrap"]
             },
             {
                 "title": "Google/Facebook Authenticator",

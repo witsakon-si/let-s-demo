@@ -11,7 +11,8 @@ def print_component(data):
     for tag in data['tags']:
         tags = tags + f"<span class='badge'>{tag}</span>"
     st.markdown(f"""
-        <a class='image-url' href={data['url']}>{data['title']}</a>
+        <span class="topic">{data['title']}</span>
+        <a class='live-url' href={data['url']}>(Live Demo)</a>
         {tags}
     """, unsafe_allow_html=True)
 
@@ -24,16 +25,21 @@ st.text('')
 
 st.markdown("""
 <style>
-.image-url {
-    font-size:16px !important;
-    font-weight: bold;
+.live-url {
+    font-size:14px !important;
     display: block; 
     text-align: center;
     text-decoration: none !important;
     padding-bottom: 8px;
 }
-.image-url:hover {
+.live-url:hover {
     color: #C73659;
+}
+.topic {
+    font-size:18px !important;
+    font-weight: bold;
+    display: block; 
+    text-align: center;
 }
 
 .badge {
