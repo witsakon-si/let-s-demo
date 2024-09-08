@@ -65,7 +65,7 @@ hide_github_icon = """
 """
 st.markdown(hide_github_icon, unsafe_allow_html=True)
 
-url = 'https://raw.githubusercontent.com/witsakon-si/let-s-demo/main/data.json'
+url = 'https://raw.githubusercontent.com/witsakon-si/let-s-demo/master/data.json'
 resp = requests.get(url)
 data = json.loads(resp.text)
 print(data)
