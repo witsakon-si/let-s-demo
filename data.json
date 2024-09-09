@@ -22,10 +22,10 @@
                 "tags": ["Spring Boot", "Angular", "Spring Security", "JWT", "Bootstrap"]
             },
             {
-                "title": "Google/Facebook Authenticator",
-                "url": "https://test.site",
-                "image_url": "https://live.staticflickr.com/65535/53973572692_c6178b2ef8_o_d.png",
-                "tags": ["SpringBoot", "Angular"]
+                "title": "Google/GitHub Authenticator",
+                "url": "https://demo-social-login.kapolo.site/",
+                "image_url": "https://live.staticflickr.com/65535/53982061243_d90864b765_o_d.jpg",
+                "tags": ["SpringBoot", "Angular", "Spring Security", "OAuth2"]
             },
             {
                 "title": "Two-factor authentication (2FA)",
