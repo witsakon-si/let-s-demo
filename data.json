@@ -29,9 +29,9 @@
             },
             {
                 "title": "Two-factor authentication (2FA)",
-                "url": "https://test.site",
-                "image_url": "https://live.staticflickr.com/65535/53973572692_c6178b2ef8_o_d.png",
-                "tags": ["SpringBoot", "Angular"]
+                "url": "https://demo-2fa.kapolo.site/",
+                "image_url": "https://live.staticflickr.com/65535/53989422733_d4178c0c5c_k_d.jpg",
+                "tags": ["SpringBoot", "Spring Security", "2FA", "Google Authenticator", "Angular"]
             }
         ]
     }
