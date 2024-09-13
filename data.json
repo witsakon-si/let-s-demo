@@ -34,5 +34,17 @@
                 "tags": ["SpringBoot", "Spring Security", "2FA", "Google Authenticator", "Angular"]
             }
         ]
+    },
+    {
+        "group": "Report",
+        "demo_list": 
+        [
+            {
+                "title": "Jasper Report",
+                "url": "https://demo-report.kapolo.site/",
+                "image_url": "https://live.staticflickr.com/65535/53991345747_47bbd5393b_k_d.jpg",
+                "tags": ["Spring Boot", "Jasper Report", "Thymeleaf", "Bootstrap"]
+            }
+        ]
     }
 ]
