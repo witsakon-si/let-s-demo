@@ -6,7 +6,7 @@
             {
                 "title": "Port & Price Alert",
                 "url": "https://demo-port.kapolo.site/",
-                "image_url": "https://live.staticflickr.com/65535/53974753653_d370e5b634_o_d.jpg",
+                "image_url": "https://image-service.kapolo.site/images/demo_port.jpg",
                 "tags": ["Spring Boot", "Angular (PrimeNg)", "SockJS", "Line Notify", "AWS", "Nginx"]
             }
         ]
@@ -18,19 +18,19 @@
             {
                 "title": "Basic Login",
                 "url": "https://demo-angualr-login.kapolo.site/",
-                "image_url": "https://live.staticflickr.com/65535/53979493983_17f9633e10_o_d.jpg",
+                "image_url": "https://image-service.kapolo.site/images/demo_angular_login.jpg",
                 "tags": ["Spring Boot", "Angular", "Spring Security", "JWT", "Bootstrap"]
             },
             {
                 "title": "Social Authenticator",
                 "url": "https://demo-social-login.kapolo.site/",
-                "image_url": "https://live.staticflickr.com/65535/53987661905_f25efde065_k_d.jpg",
+                "image_url": "https://image-service.kapolo.site/images/demo_social_login.jpg",
                 "tags": ["SpringBoot", "Angular", "Spring Security", "OAuth2"]
             },
             {
                 "title": "Two-factor authentication (2FA)",
                 "url": "https://demo-2fa.kapolo.site/",
-                "image_url": "https://live.staticflickr.com/65535/53989422733_d4178c0c5c_k_d.jpg",
+                "image_url": "https://image-service.kapolo.site/images/demo_2fa.jpg",
                 "tags": ["SpringBoot", "Spring Security", "2FA", "Google Authenticator", "Angular"]
             }
         ]
@@ -42,7 +42,7 @@
             {
                 "title": "Jasper Report",
                 "url": "https://demo-report.kapolo.site/",
-                "image_url": "https://live.staticflickr.com/65535/53991345747_47bbd5393b_k_d.jpg",
+                "image_url": "https://image-service.kapolo.site/images/demo_jasperreport.png",
                 "tags": ["Spring Boot", "Jasper Report", "Thymeleaf", "Bootstrap"]
             }
         ]
