@@ -46,5 +46,17 @@
                 "tags": ["Spring Boot", "Jasper Report", "Thymeleaf", "Bootstrap"]
             }
         ]
+    },
+    {
+        "group": "Services",
+        "demo_list": 
+        [
+            {
+                "title": "Image Service",
+                "url": "https://image-service.kapolo.site/",
+                "image_url": "https://image-service.kapolo.site/images/image_service.png",
+                "tags": ["Node.js"]
+            }
+        ]
     }
-] 
+]
