@@ -6,13 +6,13 @@
             {
                 "title": "Port & Price Alert",
                 "url": "https://demo-port.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/demo_port.jpg",
+                "image_url": "https://image-service.kapolo.site/images/demo_port.webp",
                 "tags": ["Spring Boot", "Angular (PrimeNg)", "SockJS", "Line Notify", "AWS", "Nginx"]
             },
             {
                 "title": "MongoDB CRUD",
                 "url": "https://demo-mongo-crud.kapolo.site",
-                "image_url": "https://image-service.kapolo.site/images/demo_mongo_crud.png",
+                "image_url": "https://image-service.kapolo.site/images/demo_mongo_crud.webp",
                 "tags": ["Spring Boot", "MongoDB", "Angular (PrimeNg)"]
             }
         ]
@@ -24,19 +24,19 @@
             {
                 "title": "Basic Login",
                 "url": "https://demo-angualr-login.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/demo_angular_login.jpg",
+                "image_url": "https://image-service.kapolo.site/images/demo_angular_login.webp",
                 "tags": ["Spring Boot", "Angular", "Spring Security", "JWT", "Bootstrap"]
             },
             {
                 "title": "Social Authenticator",
                 "url": "https://demo-social-login.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/demo_social_login.jpg",
+                "image_url": "https://image-service.kapolo.site/images/demo_social_login.webp",
                 "tags": ["SpringBoot", "Angular", "Spring Security", "OAuth2"]
             },
             {
                 "title": "Two-factor authentication (2FA)",
                 "url": "https://demo-2fa.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/demo_2fa.jpg",
+                "image_url": "https://image-service.kapolo.site/images/demo_2fa.webp",
                 "tags": ["SpringBoot", "Spring Security", "2FA", "Google Authenticator", "Angular"]
             }
         ]
@@ -48,7 +48,7 @@
             {
                 "title": "Jasper Report",
                 "url": "https://demo-report.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/demo_jasperreport.png",
+                "image_url": "https://image-service.kapolo.site/images/demo_jasperreport.webp",
                 "tags": ["Spring Boot", "Jasper Report", "Thymeleaf", "Bootstrap"]
             }
         ]
@@ -60,7 +60,7 @@
             {
                 "title": "Image Service",
                 "url": "https://image-service.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/image_service.png",
+                "image_url": "https://image-service.kapolo.site/images/image_service.webp",
                 "tags": ["Node.js"]
             }
         ]
