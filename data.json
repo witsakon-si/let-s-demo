@@ -8,6 +8,12 @@
                 "url": "https://demo-port.kapolo.site/",
                 "image_url": "https://image-service.kapolo.site/images/demo_port.jpg",
                 "tags": ["Spring Boot", "Angular (PrimeNg)", "SockJS", "Line Notify", "AWS", "Nginx"]
+            },
+            {
+                "title": "MongoDB CRUD",
+                "url": "https://demo-mongo-crud.kapolo.site",
+                "image_url": "https://image-service.kapolo.site/images/demo_mongo_crud.png",
+                "tags": ["Spring Boot", "MongoDB", "Angular (PrimeNg)"]
             }
         ]
     },
