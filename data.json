@@ -54,7 +54,7 @@
             {
                 "title": "iText - Html2Pdf",
                 "url": "https://demo-itext.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/demo_jasperreport.webp",
+                "image_url": "https://image-service.kapolo.site/images/demo_itext.webp",
                 "tags": ["Spring Boot", "iText", "Thymeleaf", "Bootstrap"]
             }
         ]
