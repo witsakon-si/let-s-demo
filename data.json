@@ -14,6 +14,12 @@
                 "url": "https://demo-mongo-crud.kapolo.site",
                 "image_url": "https://image-service.kapolo.site/images/demo_mongo_crud.webp",
                 "tags": ["Spring Boot", "MongoDB", "Angular (PrimeNg)"]
+            },
+            {
+                "title": "PDF Tools",
+                "url": "https://let-s-pdf-tools.streamlit.app/",
+                "image_url": "https://image-service.kapolo.site/images/pdf_tools.webp",
+                "tags": ["Streamlit", "Python"]
             }
         ]
     },
