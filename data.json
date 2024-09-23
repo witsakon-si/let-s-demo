@@ -50,6 +50,12 @@
                 "url": "https://demo-report.kapolo.site/",
                 "image_url": "https://image-service.kapolo.site/images/demo_jasperreport.webp",
                 "tags": ["Spring Boot", "Jasper Report", "Thymeleaf", "Bootstrap"]
+            },
+            {
+                "title": "iText - Html2Pdf",
+                "url": "https://demo-itext.kapolo.site/",
+                "image_url": "https://image-service.kapolo.site/images/demo_jasperreport.webp",
+                "tags": ["Spring Boot", "iText", "Thymeleaf", "Bootstrap"]
             }
         ]
     },
