@@ -24,7 +24,7 @@
             {
                 "title": "WebSocket",
                 "url": "https://demo-websocket.kapolo.site/",
-                "image_url": "https://demo-websocket.kapolo.site/",
+                "image_url": "https://image-service.kapolo.site/images/demo_websocket.webp",
                 "tags": ["Spring Boot", "Angular (PrimeNg)", "SockJS", "stompjs"]
             }
         ]
