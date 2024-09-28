@@ -25,7 +25,13 @@
                 "title": "WebSocket",
                 "url": "https://demo-websocket.kapolo.site/",
                 "image_url": "https://image-service.kapolo.site/images/demo_websocket.webp",
-                "tags": ["Spring Boot", "Angular (PrimeNg)", "SockJS", "stompjs"]
+                "tags": ["Spring Boot", "Angular", "SockJS", "stompjs"]
+            },
+            {
+                "title": "Cluster & WebSocket",
+                "url": "https://demo-cluster.kapolo.site/",
+                "image_url": "https://image-service.kapolo.site/images/demo_cluster.webp",
+                "tags": ["Nginx (Load Balancing)", "Spring Boot", "Angular", "RxJS"]
             }
         ]
     },
