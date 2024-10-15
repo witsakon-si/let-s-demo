@@ -6,6 +6,7 @@ import json
 
 def print_component(data):
     st.image(data['image_url'])
+    # st.markdown("![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)")
 
     tags = "";
     for tag in data['tags']:
