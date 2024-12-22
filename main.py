@@ -102,9 +102,9 @@ with aboutMeCol1:
     st.subheader("About Me", divider=True)
     code = '''def aboutMe():
     print("Hello, World!")
-    print("I'm Witsakon Siangwithan")
+    print("I'm Witsakon Siangwithan (Mas)")
     print("I love coding and learning new tech stacks")
-    print("Email: witsakon.si@gmail.com")
+    print("This demo is just making for fun.")
     '''
     st.code(code, language="python")
 with aboutMeCol2:
