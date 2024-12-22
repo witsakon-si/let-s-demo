@@ -13,7 +13,7 @@ def print_component(data):
         tags = tags + f"<span class='badge'>{tag}</span>"
     st.markdown(f"""
         <span class="topic">{data['title']}</span>
-        <a class='live-url' href={data['url']}>(Live Demo)</a>
+        <a class='live-url' href='{data['url']}'>(Live Demo)</a>
         {tags}
     """, unsafe_allow_html=True)
 
@@ -28,7 +28,7 @@ st.markdown("""
 <style>
 .live-url {
     font-size:14px !important;
-    display: block; 
+    display: block;
     text-align: center;
     text-decoration: none !important;
     padding-bottom: 8px;
@@ -39,7 +39,7 @@ st.markdown("""
 .topic {
     font-size:18px !important;
     font-weight: bold;
-    display: block; 
+    display: block;
     text-align: center;
 }
 
