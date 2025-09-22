@@ -1,102 +1,102 @@
 [
     {
         "group": "Demo Project",
-        "demo_list": 
+        "demo_list":
         [
             {
                 "title": "Port & Price Alert",
-                "url": "https://demo-port.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/demo_port.webp",
+                "url": "https://demo-port.masdev.site/",
+                "image_url": "https://image-service.masdev.site/images/demo_port.webp",
                 "tags": ["Spring Boot", "Angular (PrimeNg)", "SockJS", "Line Notify", "AWS", "Nginx"]
             },
             {
                 "title": "MongoDB CRUD",
-                "url": "https://demo-mongo-crud.kapolo.site",
-                "image_url": "https://image-service.kapolo.site/images/demo_mongo_crud.webp",
+                "url": "https://demo-mongo-crud.masdev.site",
+                "image_url": "https://image-service.masdev.site/images/demo_mongo_crud.webp",
                 "tags": ["Spring Boot", "MongoDB", "Angular (PrimeNg)"]
             },
             {
                 "title": "PDF/Image Tools",
                 "url": "https://let-s-pdf-tools.streamlit.app/",
-                "image_url": "https://image-service.kapolo.site/images/pdf_tools.webp",
+                "image_url": "https://image-service.masdev.site/images/pdf_tools.webp",
                 "tags": ["Streamlit", "Python"]
             },
             {
                 "title": "WebSocket",
-                "url": "https://demo-websocket.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/demo_websocket.webp",
+                "url": "https://demo-websocket.masdev.site/",
+                "image_url": "https://image-service.masdev.site/images/demo_websocket.webp",
                 "tags": ["Spring Boot", "Angular", "SockJS", "stompjs"]
             },
             {
                 "title": "Cluster & WebSocket",
-                "url": "https://demo-cluster.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/demo_cluster.webp",
+                "url": "https://demo-cluster.masdev.site/",
+                "image_url": "https://image-service.masdev.site/images/demo_cluster.webp",
                 "tags": ["Nginx (Load Balancing)", "Spring Boot", "Angular", "RxJS"]
             }
         ]
     },
     {
         "group": "Security",
-        "demo_list": 
+        "demo_list":
         [
             {
                 "title": "Basic Login",
-                "url": "https://demo-angualr-login.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/demo_angular_login.webp",
+                "url": "https://demo-angualr-login.masdev.site/",
+                "image_url": "https://image-service.masdev.site/images/demo_angular_login.webp",
                 "tags": ["Spring Boot", "Angular", "Spring Security", "JWT", "Bootstrap"]
             },
             {
                 "title": "Social Authenticator",
-                "url": "https://demo-social-login.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/demo_social_login.webp",
+                "url": "https://demo-social-login.masdev.site/",
+                "image_url": "https://image-service.masdev.site/images/demo_social_login.webp",
                 "tags": ["SpringBoot", "Angular", "Spring Security", "OAuth2"]
             },
             {
                 "title": "Two-factor authentication (2FA)",
-                "url": "https://demo-2fa.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/demo_2fa.webp",
+                "url": "https://demo-2fa.masdev.site/",
+                "image_url": "https://image-service.masdev.site/images/demo_2fa.webp",
                 "tags": ["SpringBoot", "Spring Security", "2FA", "Google Authenticator", "Angular"]
             }
         ]
     },
     {
         "group": "Report",
-        "demo_list": 
+        "demo_list":
         [
             {
                 "title": "Jasper Report",
-                "url": "https://demo-report.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/demo_jasperreport.webp",
+                "url": "https://demo-report.masdev.site/",
+                "image_url": "https://image-service.masdev.site/images/demo_jasperreport.webp",
                 "tags": ["Spring Boot", "Jasper Report", "Thymeleaf", "Bootstrap"]
             },
             {
                 "title": "iText - Html2Pdf",
-                "url": "https://demo-itext.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/demo_itext.webp",
+                "url": "https://demo-itext.masdev.site/",
+                "image_url": "https://image-service.masdev.site/images/demo_itext.webp",
                 "tags": ["Spring Boot", "iText", "Thymeleaf", "Bootstrap"]
             }
         ]
     },
     {
         "group": "Services",
-        "demo_list": 
+        "demo_list":
         [
             {
                 "title": "Image Service",
-                "url": "https://image-service.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/image_service.webp",
+                "url": "https://image-service.masdev.site/",
+                "image_url": "https://image-service.masdev.site/images/image_service.webp",
                 "tags": ["Node.js"]
             }
         ]
     },
     {
         "group": "Deployment",
-        "demo_list": 
+        "demo_list":
         [
             {
                 "title": "Jenkins",
-                "url": "https://jenkins.kapolo.site/",
-                "image_url": "https://image-service.kapolo.site/images/demo_jenkins.webp",
+                "url": "https://jenkins.masdev.site/",
+                "image_url": "https://image-service.masdev.site/images/demo_jenkins.webp",
                 "tags": ["Jenkins", "AWS"]
             }
         ]
